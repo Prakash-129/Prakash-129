@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![CI](https://github.com/Prakash-129/Prakash-129/actions/workflows/ci.yml/badge.svg)](https://github.com/Prakash-129/Prakash-129/actions/workflows/ci.yml)
+
+[![chepcheck](https://github.com/Prakash-129/Prakash-129/actions/workflows/chepcheck.yml/badge.svg)](https://github.com/Prakash-129/Prakash-129/actions/workflows/chepcheck.yml)
