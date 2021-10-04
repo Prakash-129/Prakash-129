@@ -8,3 +8,6 @@
 Prakash-129/Prakash-129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+[![CI](https://github.com/Prakash-129/Prakash-129/actions/workflows/ci.yml/badge.svg)](https://github.com/Prakash-129/Prakash-129/actions/workflows/ci.yml)
